@@ -7,6 +7,3 @@ elif ID == "396":
       print('Congratulations! You have been accepted into the programme. Welcome aboard!')
 else:
       print('Unfortunately, you do not meet the criteria for the programme. Have a nice day.')
-
-
-# I would like to personally thank the instructor reviewing this video for taking the time out of their day to look at and review this.
