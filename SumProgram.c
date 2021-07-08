@@ -1,6 +1,5 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include <conio.h>
 
 int sum(int x, int y) {
 
@@ -17,6 +16,5 @@ int main() {
 
     //Calling sum function (a, b);
     printf("Your new number is now %d + %d = %d\n", a, b, sum(a,b));
-    getch();
     return 0;
 }
